@@ -1,7 +1,7 @@
 # 使い方
-次の下げラン鯖に参加してから使用して下さい
-https://discord.gg/6JQsMzhAx3
-https://discord.gg/TPZykfUXjr
+次の下げラン鯖に参加してから使用して下さい  
+https://discord.gg/6JQsMzhAx3  
+https://discord.gg/TPZykfUXjr  
 https://discord.gg/vRU9ZfDVpk
 
 `email`と`password`にディスコードアカウントのメールアドレスとパスワードを定義してください。

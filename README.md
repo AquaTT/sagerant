@@ -21,4 +21,4 @@ https://discord.gg/vRU9ZfDVpk
 
 `exit`はスクリプトを閉じます。  
 
-また募集するサーバーを追加したい場合は`channel_ids`にチャンネルIDを追加してください。
+また、募集するサーバーを追加したい場合は`channel_ids`にチャンネルIDを追加してください。

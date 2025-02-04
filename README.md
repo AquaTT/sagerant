@@ -8,5 +8,5 @@ https://discord.gg/TPZykfUXjr
 https://discord.gg/vRU9ZfDVpk  
 コード内の`email`と`password`にDiscordアカウントのメールアドレスとパスワードを定義してください。
 # 使い方
-ファイルを実行すると`Text:`と表示されるので募集内容などを入力してください。(例 XXX000 @4)
+ファイルを実行すると`Text:`と表示されるので募集内容などを入力してください。(例: XXX000 @4)  
 サーバーを追加したい場合は`channel_ids`にチャンネルIDを追加してください。

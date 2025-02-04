@@ -11,7 +11,7 @@ https://discord.gg/vRU9ZfDVpk
 コード内の`email`と`password`にDiscordアカウントのメールアドレスとパスワードを定義してください。
 
 # 使い方
-ファイルを実行すると`Text:`と表示されるので募集内容などを入力してください。(例: XXX000 @4)  
+スクリプトを実行すると`Text:`と表示されるので募集内容などを入力してください。(例: XXX000 @4)  
 
 その後表示される`Enter command (send/delete/exit):`では３つのコマンドが使えます。  
 
